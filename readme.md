@@ -14,8 +14,9 @@
 [![PHPUnit 9.5](https://img.shields.io/badge/phpunit_9.5-%231890FF.svg?style=for-the-badge&logo=phpunit&logoColor=white)](https://phpunit.de/)
 
 ## Besoins techniques
-  - PHP 8.1 ou supérieur
-  - PHP extensions : Ctype, iconv, PCRE, Session, SimpleXML et Tokenizer
+
+    - PHP 8.1 ou supérieur
+    - PHP extensions : Ctype, iconv, PCRE, Session, SimpleXML et Tokenizer
 
 ## Installation
 
